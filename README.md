@@ -22,8 +22,16 @@
 ## About me
 
 - 👷‍♀️ Frontend developer in training at Makaia
+- 🎨 Passionate about creative design
 - 📖 I'm studying English to expand my opportunities and experiences worldwide
 - 🐶 Animal and nature lover 🌱
+- 🛠️ Familiar with remote productivity tools for efficient time management
+- 🧠 Critical thinking and attention to detail to ensure exceptional results
+- 🌈 Lover of flexibility and creativity, always seeking innovative solutions
+- 🤝 Proactive and enthusiastic collaborator, committed to the team's success
 - 🔨 QA Manual testing at Make it real
+
+
+
 
 
