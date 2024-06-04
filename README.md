@@ -1,17 +1,17 @@
-![github-header-image4](https://github.com/ibelabrador/ibelabrador/assets/118490263/d00be562-283a-4305-91e3-ec67e99a3245)
-
-<div align="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="49" height="49" /></div>
+<div align="center"> <img src="https://github.com/ibelabrador/ibelabrador/assets/118490263/aa788d31-0a55-4004-8e01-e5b0360d2f3a" /> </div>
 
 <div align="center">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/>
-	<img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
-	<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/>
+ 	<img width="35" src="https://github.com/ibelabrador/ibelabrador/assets/118490263/1df96549-36ed-45a7-85c2-64b88ee65952" alt="JS" title="JS"/>
+	<img width="40" src="https://github.com/ibelabrador/ibelabrador/assets/118490263/abc4b555-d340-4f36-987a-d476b7398bbf" alt="React" title="React"/>
+ 	<img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
+  	<img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+ 	<img width="40" src="https://github.com/ibelabrador/ibelabrador/assets/118490263/c0ddd41f-3d9b-4bc4-bb2e-5d4e5d0070ca" alt="Github" title="Github"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+ 	<img width="40" src="https://github.com/ibelabrador/ibelabrador/assets/118490263/b430d6f7-bb42-4513-8cea-b9c191b54674" alt="canva" title="canva"/>
+  	<img width="40" src="https://github.com/ibelabrador/ibelabrador/assets/118490263/cbb9a584-943d-4b8d-af77-37a279aabfe8" alt="figma" title="figma"/>
 </div>
 
 ## Git Stats
