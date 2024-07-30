@@ -22,7 +22,7 @@
 
 ## About me
 
-- 👷‍♀️ Frontend developer in training at Makaia
+- 👷‍♀️ UX designer - Web designer
 - 🎨 Passionate about creative design
 - 📖 I'm studying English to expand my opportunities and experiences worldwide
 - 🐶 Animal and nature lover 🌱
@@ -30,7 +30,7 @@
 - 🧠 Critical thinking and attention to detail to ensure exceptional results
 - 🌈 Lover of flexibility and creativity, always seeking innovative solutions
 - 🤝 Proactive and enthusiastic collaborator, committed to the team's success
-- 🔨 QA Manual testing at Make it real
+- 🔨 QA Manual testing 
 
 <div align="center"> <img width="400" src="https://github.com/ibelabrador/ibelabrador/assets/118490263/e19d0ee6-0ee9-432a-82ed-26ff8eb1e19a" /> </div>
 
